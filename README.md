@@ -1,12 +1,8 @@
 # Movie Recommendation System
 
-## Virtual Environment
-1. virtualenv myvenv
-2. venv\Scripts\activate
-
 ## TMDB API
 Hit this api:
-https://api.themoviedb.org/3/movie/{movie_id}?api_key=8777d9c586942ee574e65ea12273a4bc&language=en-US
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=__key__&language=en-US
 
 ## Running streamlit app
 1. streamlit run app.py
