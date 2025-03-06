@@ -19,3 +19,8 @@ https://api.themoviedb.org/3/movie/{movie_id}?api_key=8777d9c586942ee574e65ea122
 5. git commit -m 'large files to github'
 6. git push
 7. git push -u origin main
+
+## Creating requirement.txt
+1. pip freeze > requirements.txt
+OR, pipreqs --encoding=utf8
+OR, manually create a file and add libraries to install
